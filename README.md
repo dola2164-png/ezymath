@@ -19,9 +19,6 @@ Ezy Math gives students the tools they need to fully understand and solve math p
 https://ezymath.vercel.app
 
 
-## Feedback
-
-If you have any feedback, please reach out to us at tickets@ezymath.p.tawk.email
 
 
 ## Tech Stack
